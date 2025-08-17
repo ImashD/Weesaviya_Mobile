@@ -71,7 +71,7 @@ class RoleSelectionScreen extends StatelessWidget {
             ),
             const SizedBox(height: 5),
             const Text(
-              "Select the option that best describes you",
+              "Select the option that best describe you",
               style: TextStyle(color: Colors.black54),
             ),
             const SizedBox(height: 20),
